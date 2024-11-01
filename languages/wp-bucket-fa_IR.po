@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Bucket v0.1.0\n"
+"POT-Creation-Date: 2014-01-11 17:56+0330\n"
+"PO-Revision-Date: 2014-01-11 18:01+0330\n"
+"Last-Translator: hadi khosrojerdi <rss_samuel@yahoo.com>\n"
+"Language-Team:  <rss_samuel@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp_bucket.php:125
+msgid "Unfortunately, you have not permission to access this page."
+msgstr "با عرض پوزش، شما مجوزهای لازم برای دسترسی به این صفحه را ندارید."
+
+#: ../wp_bucket.php:178
+msgid "WP Bucket Settings."
+msgstr "تنظیمات WP Bucket "
+
+#: ../wp_bucket.php:179
+#, php-format
+msgid ""
+"Please check integrated applications section in your bitbucket admin panel "
+"for getting consumer keys. link should be like this: %s"
+msgstr ""
+"برای دریافت کلیدهای consumer لطفا بخش integrated applications را از ادمین "
+"پنل بیت باکت خود بررسی کنید. لینک آن بایستی شبیه به این باشد : %s"
+
+#: ../wp_bucket.php:183
+msgid "WP Bucket Membership"
+msgstr "عضویت WP Bucket"
+
+#: ../wp_bucket.php:189
+msgid "Everyone can login with bitbucket account."
+msgstr "هر کسی می تواند توسط اکانت بیت باکت وارد شود."
+
+#: ../wp_bucket.php:200
+#, php-format
+msgid "Select a role to access the pages %1$s and %2$s"
+msgstr "یک نقش را برای دسترسی به صفحات %1$s و %2$s انتخاب کنید."
+
+#: ../wp_bucket.php:225
+msgid ""
+"Selection of a role, provide accessibility to the upper roles, for example "
+"with the selection of role 'Editor' accessibility of 'Editor' and "
+"'Administrator' role will be possible to the pages."
+msgstr ""
+"انتخاب یک نقش، دسترسی نقش های بالاتر را به صفحات فراهم می کند، مثلا با "
+"انتخاب نقش Editor دسترسی هر دو نقش Administrator و Editor  به صفحات میسر می "
+"شود."
+
+#: ../wp_bucket.php:246
+msgid "Consumer Key"
+msgstr "کلید مصرف کننده"
+
+#: ../wp_bucket.php:251
+msgid "Consumer Secret Key"
+msgstr "کلید رمزی  مصرف کننده"
+
+#: ../inc/WP_Bucket.php:301
+msgid "Try Again"
+msgstr "دوباره تلاش کنید"
+
+#: ../inc/WP_Bucket.php:540
+msgid "Login by Bitbucket"
+msgstr "ورود توسط بیت باکت"
+
+#: ../pages/login-by-bitbucket.php:19 ../pages/login-by-bitbucket.php:41
+msgid "Cookies expired. Please try again."
+msgstr "کوکی ها نامعتبر شده اند، لطفا دوباره تلاش کنید."
+
+#~ msgid "Selecting a role, provides higher roles access to pages."
+#~ msgstr "انتخاب یک نقش، دسترسی نقش های بالاتر را به صفحات فراهم می کند."
+
+#~ msgid "test"
+#~ msgstr "امتحان"
+
+#~ msgid "Select Role"
+#~ msgstr "انتخاب نقش"
